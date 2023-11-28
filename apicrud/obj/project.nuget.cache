@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "NNsPVPkR73eDfW9VNqrAGZZqFYYLOLcoctlqsFnmnImD+a7XZyvdtTqBmqqocBvwGX1OHk8XmHol1vHHjwJeKA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AL-NOOR\\source\\repos\\apicrud\\apicrud\\apicrud.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AL-NOOR\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\AL-NOOR\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\AL-NOOR\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\AL-NOOR\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\AL-NOOR\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\AL-NOOR\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
